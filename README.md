@@ -23,9 +23,15 @@ https://hub.docker.com/_/ubuntu
 # Study Material
 
 https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html
+
 https://docs.docker.com/desktop/
+
 https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1916585256/ref=sr_1_1_sspa
+
 https://www.hostinger.com/tutorials/docker-cheat-sheet
+
 https://www.hostinger.com/tutorials/linux-commands
+
 https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
+
 https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1
