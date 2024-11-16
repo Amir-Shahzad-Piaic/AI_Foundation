@@ -5,14 +5,23 @@ We begin the course by understanding the basics of GenAI and Prompt Engineering.
 Note:
 
 Docker has market share of 82.63% in containerization market.
+
+# Tools to Install
+## VS Code
 https://code.visualstudio.com/
+## Docker Desktop
 https://www.docker.com/products/docker-desktop/
+## Dev Containers
 https://code.visualstudio.com/docs/devcontainers/containers
+## Python in VS Code
 https://code.visualstudio.com/docs/languages/python
+## Github Desktop
 https://desktop.github.com/
+## Ubuntu Image
 https://hub.docker.com/_/ubuntu
 
 # Study Material
+
 https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html
 https://docs.docker.com/desktop/
 https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1916585256/ref=sr_1_1_sspa
